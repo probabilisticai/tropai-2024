@@ -14,6 +14,9 @@ Welcome to the central repository for the Tropical Probabilistic AI 2024 School!
 - Representation Learning and Self-Supervised Learning
 
 ## Day 4
-
+- Probabilistic Programming 1
+- Probabilistic Programming 2
 
 ## Day 5
+- Causal Probabilistic Programming
+- Causal Inference
