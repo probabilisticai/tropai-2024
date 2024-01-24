@@ -3,11 +3,11 @@
 Welcome to the central repository for the Tropical Probabilistic AI 2024 School! For quick reference check the [program](https://tropical.probabilistic.ai/program/).
 
 ## Day 1
-- Setup and Introduction to Probabilistic Programming: [Code](day1/Code) [Slides](day1/Slides) [Colab](day1/Colab)
+- Setup and Introduction to Probabilistic Programming: [Code](day1) [Slides](day1) [Colab](day1)
 
 ## Day 2 
-- Variational Inference 1: [Code](day2/Code) [Slides](day2/Slides) [Colab](day2/Colab)
-- Variational Inference 2: [Code](day2/Code) [Slides](day2/Slides) [Colab](day2/Colab)
+- Variational Inference 1: [Code](day2) [Slides](day2) [Colab](day2)
+- Variational Inference 2: [Code](day2) [Slides](day2) [Colab](day2)
 
 ## Day 3
 - Deep Generative Models
