@@ -2,6 +2,8 @@
 
 Welcome to the central repository for the Tropical Probabilistic AI 2024 School! For quick reference check the [program](https://tropical.probabilistic.ai/program/).
 
+OBS: The repository will have updates over coming days before and during the school week, some links might be broken, etc.
+
 ## Day 1
 - Setup and Introduction to Probabilistic Programming: [Code](day1) [Slides](day1) [Colab](day1)
 
