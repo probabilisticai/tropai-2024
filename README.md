@@ -5,7 +5,7 @@ Welcome to the central repository for the Tropical Probabilistic AI 2024 School!
 OBS: The repository will have updates over coming days before and during the school week, some links might be broken, etc.
 
 ## Day 1
-- Setup and Introduction to Probabilistic Programming: [Code](day1) [Slides](day1) [Colab](day1)
+- Setup and Introduction to Probabilistic Programming: [Code](day1/README.md) [Slides](day1/README.md) [Colab](day1/README.md)
 
 ## Day 2 
 - Variational Inference Part 1: 
