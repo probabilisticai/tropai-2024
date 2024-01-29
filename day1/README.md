@@ -10,6 +10,7 @@ This requires python and pipx:
 
 # Notebooks
 1. Notebook: [PPLs intro (local)](students_PPLs_Intro.ipynb) | [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day1/students_PPLs_Intro.ipynb)
+1. Solution Notebook: [PPLs intro (local)](solutions_PPLs_Intro.ipynb) | [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day1/solutions_PPLs_Intro.ipynb)
 
 # Slides:
 
