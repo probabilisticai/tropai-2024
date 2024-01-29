@@ -11,14 +11,14 @@ OBS: The repository will have updates over coming days before and during the sch
 - Variational Inference Part 1: 
   - [Slides](day2/slides/Part2.pdf)
   - [Code](day2/notebooks)
-    1. [studens_simple_model.ipynb](students_simple_model.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_simple_model.ipynb)
-    2. [CAVI-linreg.ipynb](CAVI-linreg.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/CAVI-linreg.ipynb)
+    - [studens_simple_model.ipynb](students_simple_model.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_simple_model.ipynb)
+    - [CAVI-linreg.ipynb](CAVI-linreg.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/CAVI-linreg.ipynb)
 - Variational Inference Part 2: 
   - [Slides](day2/slides/Part2.pdf)
   - [Code](day2/notebooks)
-    3. [BayesianNeuralNetworks.ipynb](BayesianNeuralNetworks.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/BayesianNeuralNetworks.ipynb)
-    4. [students-BBVI.ipynb](students_BBVI.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_BBVI.ipynb)
-    5. [students-VAE.ipynb](students_VAE.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_VAE.ipynb)
+    -  [BayesianNeuralNetworks.ipynb](BayesianNeuralNetworks.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/BayesianNeuralNetworks.ipynb)
+    - [students-BBVI.ipynb](students_BBVI.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_BBVI.ipynb)
+    - [students-VAE.ipynb](students_VAE.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_VAE.ipynb)
   
 ## Day 3
 - Deep Generative Models
