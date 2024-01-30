@@ -11,7 +11,7 @@ OBS: The repository will have updates over coming days before and during the sch
 - Variational Inference Part 1: 
   - [Slides](day2/slides/Part1.pdf)
   - [Code](day2/notebooks)
-    - [studens_simple_model.ipynb](students_simple_model.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_simple_model.ipynb)
+    - [studens_simple_model.ipynb](students_simple_model.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_simple_model.ipynb) [SOLUTIONS COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/solution_simple_model.ipynb)
     - [CAVI-linreg.ipynb](CAVI-linreg.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/CAVI-linreg.ipynb)
 - Variational Inference Part 2: 
   - [Slides](day2/slides/Part2.pdf)
