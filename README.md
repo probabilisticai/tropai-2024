@@ -17,7 +17,7 @@ OBS: The repository will have updates over coming days before and during the sch
   - [Slides](day2/slides/Part2.pdf)
   - [Code](day2/notebooks)
     -  [BayesianNeuralNetworks.ipynb](BayesianNeuralNetworks.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/BayesianNeuralNetworks.ipynb)
-    - [students-BBVI.ipynb](students_BBVI.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_BBVI.ipynb)
+    - [students-BBVI.ipynb](students_BBVI.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_BBVI.ipynb) [SOLUTION COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/solutions_BBVI.ipynb)
     - [students-VAE.ipynb](students_VAE.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_VAE.ipynb)
   
 ## Day 3
