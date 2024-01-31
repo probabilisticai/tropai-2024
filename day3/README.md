@@ -26,4 +26,5 @@
 - [Slides](Diane_talk_1.pdf)
 
 ## Notebooks:
-- [Code](notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)
+- [Code assignment](notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)
+- [Representation learning and Self supervised learning](notebooks/Representation_learning_and_Self_supervised_learning.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Representation_learning_and_Self_supervised_learning.ipynb)
