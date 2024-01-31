@@ -15,4 +15,4 @@ This requires python and pipx:
 ## Part 2 
 3. [BayesianNeuralNetworks](BayesianNeuralNetworks.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/BayesianNeuralNetworks.ipynb)
 4. [students BBVI](students_BBVI.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_BBVI.ipynb) [SOLUTION COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/solutions_BBVI.ipynb)
-5. [students VAE](students_VAE.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_VAE.ipynb)
+5. [students VAE](students_VAE.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/students_VAE.ipynb) [SOLUTION COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day2/notebooks/solutions_VAE.ipynb)
