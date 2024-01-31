@@ -37,6 +37,7 @@ OBS: The repository will have updates over coming days before and during the sch
     - [VAE](day3/notebooks/variational_autoencoder.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/variational_autoencoder.ipynb)
 - Representation Learning and Self-Supervised Learning
   - [Code](day3/notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)
+  - [Colab with models and equations](https://colab.research.google.com/drive/1pKnR0uu1k_SBr8Buz5Rvq4OlMFAJ2_UN?usp=sharing)
 
 ## Day 4
 - Probabilistic Programming 1
