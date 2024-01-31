@@ -22,6 +22,18 @@ OBS: The repository will have updates over coming days before and during the sch
   
 ## Day 3
 - Deep Generative Models
+  - [Part 1 Slides](day3/Generative_Models_FGV_2024_pt1.pdf)
+  - [Part 2 Slides](day3/Generative_Models_FGV_2024_pt2.pdf)
+  - [Code](day3/notebooks/)
+    - [Conditional GANS](day3/notebooks/conditional_gans.ipynb)
+    - [Conditional GANS Gabarito](day3/notebooks/convolutional_gans_gabarito.ipynb)
+    - [Cyclegan](day3/notebooks/cyclegan.ipynb)
+    - [MNIST Omniglot](day3/notebooks/gemos_mnist_omniglot.ipynb)
+    - [MAE Visualize](day3/notebooks/mae_visualize.ipynb)
+    - [MAE VIT](day3/notebooks/mae_vit.ipynb)
+    - [Stable diffusion](day3/notebooks/stable_diffusion.ipynb)
+    - [Tiny Nerf](day3/notebooks/tiny_nerf.ipynb)
+    - [VAE](day3/notebooks/variational_autoencoder.ipynb)
 - Representation Learning and Self-Supervised Learning
 
 ## Day 4
