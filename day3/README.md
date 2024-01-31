@@ -18,3 +18,9 @@
 - [Stable diffusion](day3/notebooks/stable_diffusion.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/stable_diffusion.ipynb)
 - [Tiny Nerf](day3/notebooks/tiny_nerf.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/tiny_nerf.ipynb)
 - [VAE](day3/notebooks/variational_autoencoder.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/variational_autoencoder.ipynb)
+
+
+# Representation Learning and Self-Supervised Learning | Diane Bouchacourt
+
+## Notebooks:
+- [Code](day3/notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)

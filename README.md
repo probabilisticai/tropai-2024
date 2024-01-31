@@ -36,6 +36,7 @@ OBS: The repository will have updates over coming days before and during the sch
     - [Tiny Nerf](day3/notebooks/tiny_nerf.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/tiny_nerf.ipynb)
     - [VAE](day3/notebooks/variational_autoencoder.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/variational_autoencoder.ipynb)
 - Representation Learning and Self-Supervised Learning
+  - [Code](day3/notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)
 
 ## Day 4
 - Probabilistic Programming 1
