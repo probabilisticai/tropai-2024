@@ -9,18 +9,21 @@
 ## Notebooks
 1. Notebooks: [Google Drive Notebooks](https://drive.google.com/drive/folders/1FwRmvdWN3vBXlLvFK8FdPry1M5pRfOv_)
 
-- [Conditional GANS](day3/notebooks/conditional_gans.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/conditional_gans.ipynb)
-- [Conditional GANS Gabarito](day3/notebooks/convolutional_gans_gabarito.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/convolutional_gans_gabarito.ipynb)
-- [Cyclegan](day3/notebooks/cyclegan.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/cyclegan.ipynb)
-- [MNIST Omniglot](day3/notebooks/gemos_mnist_omniglot.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/gemos_mnist_omniglot.ipynb)
-- [MAE Visualize](day3/notebooks/mae_visualize.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/mae_visualize.ipynb)
-- [MAE VIT](day3/notebooks/mae_vit.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/mae_vit.ipynb)
-- [Stable diffusion](day3/notebooks/stable_diffusion.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/stable_diffusion.ipynb)
-- [Tiny Nerf](day3/notebooks/tiny_nerf.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/tiny_nerf.ipynb)
-- [VAE](day3/notebooks/variational_autoencoder.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/variational_autoencoder.ipynb)
+- [Conditional GANS](notebooks/conditional_gans.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/conditional_gans.ipynb)
+- [Conditional GANS Gabarito](notebooks/convolutional_gans_gabarito.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/convolutional_gans_gabarito.ipynb)
+- [Cyclegan](notebooks/cyclegan.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/cyclegan.ipynb)
+- [MNIST Omniglot](notebooks/gemos_mnist_omniglot.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/gemos_mnist_omniglot.ipynb)
+- [MAE Visualize](notebooks/mae_visualize.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/mae_visualize.ipynb)
+- [MAE VIT](notebooks/mae_vit.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/mae_vit.ipynb)
+- [Stable diffusion](notebooks/stable_diffusion.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/stable_diffusion.ipynb)
+- [Tiny Nerf](notebooks/tiny_nerf.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/tiny_nerf.ipynb)
+- [VAE](notebooks/variational_autoencoder.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/variational_autoencoder.ipynb)
 
 
 # Representation Learning and Self-Supervised Learning | Diane Bouchacourt
 
+## Slides:
+- [Slides](Diane_talk_1.pdf)
+
 ## Notebooks:
-- [Code](day3/notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)
+- [Code](notebooks/Code_assignment.ipynb) [COLAB](https://colab.research.google.com/github/probabilisticai/tropai-2024/blob/master/day3/notebooks/Code_assignment.ipynb)
